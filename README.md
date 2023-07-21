@@ -1,1 +1,3 @@
-# dtu
+# Device Testing Utility
+
+## The ultimate diagnostics tools
